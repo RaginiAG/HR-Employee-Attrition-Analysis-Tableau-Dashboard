@@ -16,6 +16,10 @@ The dashboard explores workforce demographics, job roles, education, work-life b
 - **Work-Life Balance vs Attrition:** Analyzes the correlation between work-life balance and leaving rates.  
 - **Overtime vs Attrition:** Shows how excessive overtime leads to higher attrition.
 
+## 📊 **Interactive Dashboard Link:**  
+👉 [View Dashboard](- https://github.com/RaginiAG/HR-Employee-Attrition-Analysis-Tableau-Dashboard/commit/cd9ff38887246b1a4e889fbb883826aa55db6caa)
+
+
 ## 🛠️ Tools & Technologies
 - **Tableau** (Dashboard creation, data visualization)  
 - **HR Dataset** (synthetic dataset for employee attrition analysis)  
