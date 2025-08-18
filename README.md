@@ -17,7 +17,7 @@ The dashboard explores workforce demographics, job roles, education, work-life b
 - **Overtime vs Attrition:** Shows how excessive overtime leads to higher attrition.
 
 ## 📊 **Interactive Dashboard Link:**  
-👉 [View Dashboard](- https://github.com/RaginiAG/HR-Employee-Attrition-Analysis-Tableau-Dashboard/commit/cd9ff38887246b1a4e889fbb883826aa55db6caa)
+👉 [View Dashboard]([- https://github.com/RaginiAG/HR-Employee-Attrition-Analysis-Tableau-Dashboard/commit/cd9ff38887246b1a4e889fbb883826aa55db6caa](https://github.com/RaginiAG/HR-Employee-Attrition-Analysis-Tableau-Dashboard/blob/main/HR%20Dashboard.PNG))
 
 
 ## 🛠️ Tools & Technologies
