@@ -1,31 +1,46 @@
-# HR Employee Attrition Analysis Tableau Dashboard
+# 📊 HR Employee Attrition Analytics Tableau Dashboard
+
 ## 📌 Project Overview
-This project analyzes **employee attrition patterns** using Tableau to provide HR departments with actionable insights.  
-The dashboard explores workforce demographics, job roles, education, work-life balance, and overtime impact on attrition.
+This project focuses on analyzing **HR Employee Attrition** to identify workforce trends, attrition patterns, and key drivers of employee satisfaction.  
+The dashboard is built to provide HR professionals and management a clear view of workforce dynamics and to support **data-driven decision making**.
 
-## 🎯 Objectives
-- Identify which departments and roles face the highest attrition.
-- Understand the impact of age, work-life balance, and overtime on employee retention.
-- Provide data-driven recommendations for HR decision-making.
+---
 
-## 📊 Dashboard Features
-- **KPI Highlights:** Total Employees, Attrition Rate, Avg Age, Avg Tenure, Avg Monthly Income.  
-- **Attrition by Department & Job Roles:** Breakdown of workforce and attrition by departments/roles.  
-- **Education Field vs Job Satisfaction:** Bubble chart showing attrition patterns across education levels.  
-- **Age Distribution:** Highlights age groups with the highest attrition.  
-- **Work-Life Balance vs Attrition:** Analyzes the correlation between work-life balance and leaving rates.  
-- **Overtime vs Attrition:** Shows how excessive overtime leads to higher attrition.
+## 🖼️ Dashboard Preview
+![HR Dashboard](./HR%20Dashboard.PNG)
 
-## 📊 **Interactive Dashboard Link:**  
-👉 [View Dashboard]([- https://github.com/RaginiAG/HR-Employee-Attrition-Analysis-Tableau-Dashboard/commit/cd9ff38887246b1a4e889fbb883826aa55db6caa](https://github.com/RaginiAG/HR-Employee-Attrition-Analysis-Tableau-Dashboard/blob/main/HR%20Dashboard.PNG))
+---
 
+## ⚡ Key Features
+- **KPIs at a glance**
+  - Total Employee Count
+  - Attrition Count
+  - Active Employees
+  - Attrition Rate %
+  - Average Age of Employees
+- **Attrition Insights**
+  - Department-wise Attrition
+  - Education Field-wise Attrition
+  - Attrition by Gender
+  - Attrition Rate by Gender & Age Group
+- **Employee Demographics**
+  - Number of Employees by Age Group
+- **Employee Experience**
+  - Job Satisfaction Rating by Role
+
+---
 
 ## 🛠️ Tools & Technologies
-- **Tableau** (Dashboard creation, data visualization)  
-- **HR Dataset** (synthetic dataset for employee attrition analysis)  
+- **Tableau** → Data visualization and dashboard creation
+- **Excel** → Data preparation and cleaning
+- **GitHub** → Project version control and sharing
 
-## 🔍 Key Insights
-- Employees in **Sales and R&D** face the highest attrition.  
-- **Age group 25-35** is more likely to leave the company.  
-- Poor **work-life balance** and **excessive overtime** are strong attrition drivers.  
-- Retention strategies should target **mid-career employees** and **high-overtime roles**.
+---
+
+## 🎯 Insights from Dashboard
+- Sales and Human Resources departments showed higher attrition compared to other fields.
+- Employees in the **Medical and Marketing fields** experienced significant attrition rates.
+- Younger employees (20–30 age group) exhibited higher attrition compared to older groups.
+- Job roles such as **Sales Executives** and **Research Scientists** had relatively lower satisfaction scores, contributing to higher attrition.
+
+---
